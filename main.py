@@ -7,8 +7,18 @@ menu = """
                 (4) - Sair
 """
 
+
+
 saques = []
+clientes = []
 depositos = []
+
+
+
+
+
+
+
 deposito = 0.0
 saldo_deposito = 0.0
 saldo_saque = 0.0
